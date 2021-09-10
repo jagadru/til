@@ -7,13 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Eventbrite](http://www.eventbrite.com/).
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Django](#django)
+* [Docker](#docker)
 * [Linux](#linux)
 * [Mysql](#mysql)
 * [Pyenv](#pyenv)
@@ -26,6 +27,10 @@ _8 TILs and counting..._
 
 - [Be careful with setting USE_TZ](django/aware_use_tz.md)
 - [Take care of your trailing slashs](django/trailing_slash_on_django.md)
+
+### Docker
+
+- [# Dockerfile Best Practices](docker/summary-best-practices.md)
 
 ### Linux
 
