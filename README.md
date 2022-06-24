@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Eventbrite](http://www.eventbrite.com/).
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _10 TILs and counting..._
 
 * [Django](#django)
 * [Docker](#docker)
+* [Flake8](#flake8)
 * [Linux](#linux)
 * [Mysql](#mysql)
 * [Pyenv](#pyenv)
@@ -31,6 +32,10 @@ _10 TILs and counting..._
 ### Docker
 
 - [# Dockerfile Best Practices](docker/summary-best-practices.md)
+
+### Flake8
+
+- [Invalid escape sequence 'x' (W605)](flake8/w605.md)
 
 ### Linux
 
