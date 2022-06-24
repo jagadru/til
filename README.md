@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Eventbrite](http://www.eventbrite.com/).
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _12 TILs and counting..._
 * [Django](#django)
 * [Docker](#docker)
 * [Flake8](#flake8)
+* [Git](#git)
 * [Linux](#linux)
 * [Mysql](#mysql)
 * [Pyenv](#pyenv)
@@ -36,6 +37,10 @@ _12 TILs and counting..._
 ### Flake8
 
 - [Invalid escape sequence 'x' (W605)](flake8/w605.md)
+
+### Git
+
+- [Unstash only centain files with git](git/unstash-only-certain-files.md)
 
 ### Linux
 
