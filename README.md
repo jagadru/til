@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Eventbrite](http://www.eventbrite.com/).
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -59,6 +59,7 @@ _12 TILs and counting..._
 
 - [Create shortcuts within vim](vim/create-shortcut-vim.md)
 - [Delete lines that does not contain a specific string with Vim](vim/delete-lines-does-not-contain-string.md)
+- [Search and Replace in Vim](vim/search-and-replace.md)
 
 ## Usage
 
