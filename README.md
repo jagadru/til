@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Eventbrite](http://www.eventbrite.com/).
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _11 TILs and counting..._
 
 ### Python
 
+- [BaseException.message deprecated in Python 2.6](python/base_exception_message_was_deprecated.md)
 - [Usages of asterisks in Python](python/asterisks-on-python.md)
 
 ### Vim
