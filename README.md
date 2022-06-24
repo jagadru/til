@@ -16,6 +16,7 @@ _13 TILs and counting..._
 * [Django](#django)
 * [Docker](#docker)
 * [Flake8](#flake8)
+* [Git](#git)
 * [Linux](#linux)
 * [Mysql](#mysql)
 * [Pyenv](#pyenv)
@@ -36,6 +37,10 @@ _13 TILs and counting..._
 ### Flake8
 
 - [Invalid escape sequence 'x' (W605)](flake8/w605.md)
+
+### Git
+
+- [Unstash only centain files with git](git/unstash-only-certain-files.md)
 
 ### Linux
 
