@@ -17,7 +17,7 @@ HEADER = '''# TIL
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
-smart people at [Eventbrite](http://www.eventbrite.com/).
+smart people at [Eventbrite](http://www.eventbrite.com/) and [Venmo](https://venmo.com/).
 '''
 
 FOOTER = '''## Usage
