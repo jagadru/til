@@ -7,12 +7,13 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post. These are mostly things I learn by pairing with
 smart people at [Eventbrite](http://www.eventbrite.com/).
 
-_15 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Behave](#behave)
 * [Django](#django)
 * [Docker](#docker)
 * [Flake8](#flake8)
@@ -24,6 +25,10 @@ _15 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+### Behave
+
+- [Cardinality One or Zero](behave/cardinality-one-or-zero.md)
 
 ### Django
 
@@ -59,6 +64,7 @@ _15 TILs and counting..._
 ### Python
 
 - [BaseException.message deprecated in Python 2.6](python/base_exception_message_was_deprecated.md)
+- [Hashes and Equality in Python](python/hashes-and-equality.md)
 - [Usages of asterisks in Python](python/asterisks-on-python.md)
 
 ### Vim
